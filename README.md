@@ -33,3 +33,13 @@
 - At the end, you will get your score.
 
 ## Screenshot
+
+![Screenshot](https://github.com/sahsisunny/mr-robot-quiz/blob/main/Screenshot.png?raw=true)
+
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/sahsisunny/)
+- [Twitter](https://twitter.com/sahsisunny)
+- [Instagram](https://www.instagram.com/sahsisunny/)
+- [Facebook](https://www.facebook.com/sahsisunny/)
+- [GitHub](https://github.com/sahsisunny)
