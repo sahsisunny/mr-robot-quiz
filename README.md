@@ -23,7 +23,7 @@
 
 ### Option 2:
 
-- Go to the [repl.it](https://replit.com/@SahsiSunny/Exercise-15-Quiz#index.js?embed=1&output=1) link.
+- Go to the [repl.it](https://replit.com/@SahsiSunny/Mr-Robot-Quiz?v=1) link.
 - Click on the run button.
 
 ## How to play?
