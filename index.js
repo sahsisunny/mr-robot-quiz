@@ -1,5 +1,3 @@
-// ############ My Solution ############
-
 // Import modules
 const readLineSunc = require('readline-sync');
 const chalkk = require('chalk');
@@ -86,8 +84,3 @@ playQuiz();
 checkHighScore();
 
 
-/*
-Link to the repl.it file output
-https://replit.com/@SahsiSunny/ex15#index.js?embed=1&output=1
-https://replit.com/@SahsiSunny/DoYouKnowMe?v=1
-*/
